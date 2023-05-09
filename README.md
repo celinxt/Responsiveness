@@ -35,7 +35,7 @@
 ## Desktop
 <p align="center"><img src = "assets/desktop.png" alt="Project image" height="400"></p>
 <br><br>
-Project Link - https://celinxt.github.io/Responsiveness.me/
+Project Link - https://celinxt.github.io/Responsiveness/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
