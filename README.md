@@ -28,7 +28,11 @@
 <p> A fully responsive web page for all screen sizes. </p>
 
 <p align="center"><img src = "assets/video.gif" alt="Project image" height="400"></p>
+
+## Mobile
 <p align="center"><img src = "assets/mobile.png" alt="Project image" height="400"></p>
+
+## Desktop
 <p align="center"><img src = "assets/desktop.png" alt="Project image" height="400"></p>
 <br><br>
 Project Link - https://celinxt.github.io/Responsiveness.me/
